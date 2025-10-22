@@ -30,10 +30,9 @@ Os algoritmos foram aplicados a problemas da plataforma LeetCode e adaptados par
 
 | Problema | Linguagem | Dificuldade | Link |
 |----------|-----------|-------------|------|
-|  Search in Rotated Sorted Array | C | Médio | [Ver no LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1764283219) |
-|  Serialize and Deserialize Binary Tree | C++ | Difícil | [Ver no LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/1764284342) |
-|  Course Schedule | C++ | Médio | [Ver no LeetCode](https://leetcode.com/problems/course-schedule/submissions/1763797508/) |
-|  Split Array Largest Sum | C++ | Difícil | [Ver no LeetCode](https://leetcode.com/problems/split-array-largest-sum/submissions/1764327201/) |
+| 23. Merge k Sorted Lists | C | Difícil | [Ver no LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
+| 75. Sort Colors | C | Médio | [Ver no LeetCode](https://leetcode.com/problems/sort-colors/description/) |
+| 148. Sort List | C | Médio | [Ver no LeetCode](https://leetcode.com/problems/sort-list/description/) |
 
 > Todos os códigos foram rodados e testados diretamente no **LeetCode**, garantindo a validação automática em múltiplos casos de teste.
 
@@ -45,24 +44,20 @@ Os algoritmos foram aplicados a problemas da plataforma LeetCode e adaptados par
 Abaixo estão as imagens que demonstram o funcionamento dos algoritmos testados na plataforma LeetCode.  
 
 
-### Search in Rotated Sorted Array (C)
+### 23 - Merge K Sorted Lists (C)
 
-![Busca Rotacionada](busca_rotacionada/rotacionada_teste.png)
+![23 - merge k sorted lists](23-merge-k-sorted-lists/image.png)
+[Link para a submissão no leetcode](https://leetcode.com/problems/merge-k-sorted-lists/submissions/1808751056/)
 
+### 75 - Sort Colors
 
-### Serialize and Deserialize Binary Tree (C++)
+![75 - sort colors](75-sort-colors/image.png)
+[Link para a submissão no leetcode](https://leetcode.com/problems/sort-colors/submissions/1801540400/)
 
-![Serialização de Árvore](arvore_serializacao/arvore_teste.png)
+### 148 - Sort List
 
-
-### Course Schedule (C++)
-
-![Course Schedule](escala_curso/image.png)
-
-
-### Split Array Largest Sum (C++)
-
-![Split Array Largest Sum](dividir_array_soma/image.png)
+![148 - Sort List](148-sort-list/image.png)
+[Link para a submissão no leetcode](https://leetcode.com/problems/sort-list/submissions/1808787274/)
 
 ### Vídeo explicando os algoritmos 
 
